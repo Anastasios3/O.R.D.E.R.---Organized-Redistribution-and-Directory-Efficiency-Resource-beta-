@@ -1,0 +1,2 @@
+# O.R.D.E.R.---Organized-Redistribution-and-Directory-Efficiency-Resource-beta-
+O.R.D.E.R. (Organized Redistribution and Directory Efficiency Resource) is a beta tool for automatic file organization. It sorts files in directories like Downloads into categories (Images, Videos, etc.) based on extensions. It features real-time monitoring, periodic rechecks, and a user-friendly interface for efficient file management.
